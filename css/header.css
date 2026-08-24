@@ -1,0 +1,26 @@
+.header .accent {
+  color: #2e2f42;
+}
+
+.address {
+  font-style: normal;
+}
+
+.nav-link,
+.address-link {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.nav-link {
+  font-weight: 500;
+  color: #2e2f42;
+}
+
+.nav-link:hover,
+.nav-link:focus,
+.address-link:hover,
+.address-link:focus {
+  color: #404bbf;
+}
