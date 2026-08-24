@@ -3,7 +3,6 @@
 }
 
 .team-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -13,6 +12,7 @@
 }
 
 .team-card {
+  background-color: #ffffff;
   text-align: center;
 }
 
